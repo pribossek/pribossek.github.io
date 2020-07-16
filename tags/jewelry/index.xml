@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jewelry on Jaka Pribošek</title>
-    <link>http://jaka.pribosek.com/tags/jewelry/</link>
+    <link>https://jaka.pribosek.com/tags/jewelry/</link>
     <description>Recent content in Jewelry on Jaka Pribošek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Jun 2020 23:55:39 +0100</lastBuildDate>
     
-	<atom:link href="http://jaka.pribosek.com/tags/jewelry/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jaka.pribosek.com/tags/jewelry/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Centrifugal Casting Machine</title>
-      <link>http://jaka.pribosek.com/home/centrifugalcasting/</link>
+      <link>https://jaka.pribosek.com/home/centrifugalcasting/</link>
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
-      <guid>http://jaka.pribosek.com/home/centrifugalcasting/</guid>
+      <guid>https://jaka.pribosek.com/home/centrifugalcasting/</guid>
       <description>-tbd-</description>
     </item>
     
     <item>
       <title>Ring Engraver</title>
-      <link>http://jaka.pribosek.com/home/ringengraver/</link>
+      <link>https://jaka.pribosek.com/home/ringengraver/</link>
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
-      <guid>http://jaka.pribosek.com/home/ringengraver/</guid>
+      <guid>https://jaka.pribosek.com/home/ringengraver/</guid>
       <description>-tbd-</description>
     </item>
     
