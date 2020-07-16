@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jewelry on Jaka Pribošek</title>
+    <link>https://pribossek.github.io/tags/jewelry/</link>
+    <description>Recent content in Jewelry on Jaka Pribošek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jun 2020 23:55:39 +0100</lastBuildDate>
+    
+	<atom:link href="https://pribossek.github.io/tags/jewelry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Centrifugal Casting Machine</title>
+      <link>https://pribossek.github.io/home/centrifugalcasting/</link>
+      <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
+      
+      <guid>https://pribossek.github.io/home/centrifugalcasting/</guid>
+      <description>-tbd-</description>
+    </item>
+    
+    <item>
+      <title>Ring Engraver</title>
+      <link>https://pribossek.github.io/home/ringengraver/</link>
+      <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
+      
+      <guid>https://pribossek.github.io/home/ringengraver/</guid>
+      <description>-tbd-</description>
+    </item>
+    
+  </channel>
+</rss>

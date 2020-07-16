@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Jaka Pribošek</title>
+    <link>https://pribossek.github.io/categories/</link>
+    <description>Recent content in Categories on Jaka Pribošek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jun 2020 23:55:39 +0100</lastBuildDate>
+    
+	<atom:link href="https://pribossek.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Art</title>
+      <link>https://pribossek.github.io/categories/art/</link>
+      <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
+      
+      <guid>https://pribossek.github.io/categories/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronics</title>
+      <link>https://pribossek.github.io/categories/electronics/</link>
+      <pubDate>Mon, 19 Jan 2015 23:55:39 +0100</pubDate>
+      
+      <guid>https://pribossek.github.io/categories/electronics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optics</title>
+      <link>https://pribossek.github.io/categories/optics/</link>
+      <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
+      
+      <guid>https://pribossek.github.io/categories/optics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://pribossek.github.io/categories/software/</link>
+      <pubDate>Fri, 19 Jan 2018 23:55:39 +0100</pubDate>
+      
+      <guid>https://pribossek.github.io/categories/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steel</title>
+      <link>https://pribossek.github.io/categories/steel/</link>
+      <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
+      
+      <guid>https://pribossek.github.io/categories/steel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wood</title>
+      <link>https://pribossek.github.io/categories/wood/</link>
+      <pubDate>Fri, 22 Dec 2017 23:55:39 +0100</pubDate>
+      
+      <guid>https://pribossek.github.io/categories/wood/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

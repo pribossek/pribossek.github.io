@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dentistry on Jaka Pribošek</title>
+    <link>https://pribossek.github.io/tags/dentistry/</link>
+    <description>Recent content in Dentistry on Jaka Pribošek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jan 2018 23:55:39 +0100</lastBuildDate>
+    
+	<atom:link href="https://pribossek.github.io/tags/dentistry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vibratory Thumbler</title>
+      <link>https://pribossek.github.io/home/vibratorythumbler/</link>
+      <pubDate>Fri, 19 Jan 2018 23:55:39 +0100</pubDate>
+      
+      <guid>https://pribossek.github.io/home/vibratorythumbler/</guid>
+      <description>Vibratory thumbler is a useful machine, when casting plaster and polishing CNC parts. I use it mainly for bubble-free castings with silicone, epoxy and plaster, as vibrations facilitate the air, trapped in the small pockets near the surface to escape.
+Old braking disc serves as a solid base, to which spring mounted table is mount. The machine is powered by some old high-pole DC motor, offering low speed and high torque, to which the eccentric cam is mounted for debalance.</description>
+    </item>
+    
+  </channel>
+</rss>

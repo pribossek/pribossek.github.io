@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graphics on Jaka Pribošek</title>
+    <link>https://pribossek.github.io/tags/graphics/</link>
+    <description>Recent content in Graphics on Jaka Pribošek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Jan 2015 23:55:39 +0100</lastBuildDate>
+    
+	<atom:link href="https://pribossek.github.io/tags/graphics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Some old graphics</title>
+      <link>https://pribossek.github.io/home/graphics/</link>
+      <pubDate>Mon, 19 Jan 2015 23:55:39 +0100</pubDate>
+      
+      <guid>https://pribossek.github.io/home/graphics/</guid>
+      <description>These are some old graphics..</description>
+    </item>
+    
+  </channel>
+</rss>

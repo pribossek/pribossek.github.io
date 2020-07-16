@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wood Carving on Jaka Pribošek</title>
+    <link>https://pribossek.github.io/tags/wood-carving/</link>
+    <description>Recent content in Wood Carving on Jaka Pribošek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Nov 2017 23:55:39 +0100</lastBuildDate>
+    
+	<atom:link href="https://pribossek.github.io/tags/wood-carving/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spice Rack</title>
+      <link>https://pribossek.github.io/home/spicerack/</link>
+      <pubDate>Sun, 19 Nov 2017 23:55:39 +0100</pubDate>
+      
+      <guid>https://pribossek.github.io/home/spicerack/</guid>
+      <description>I have made this nice spice rack out of 30mm spruce plank. The spice rack measures 150 x 450 x 30 mm. It was carved in two pieces, as the cnc working area is 300mm in the longest dimension. So I set up two separate gcode, both referenced to the same physical point on the object. The point was found on CNC using a camera, hence
+As final finish, I used linseed oil, which pops out the grain a bit and gives a nice mate finish.</description>
+    </item>
+    
+    <item>
+      <title>Celtic Pendant</title>
+      <link>https://pribossek.github.io/home/celticpendant/</link>
+      <pubDate>Sat, 20 Feb 2016 23:55:39 +0100</pubDate>
+      
+      <guid>https://pribossek.github.io/home/celticpendant/</guid>
+      <description>Made for my love.
+Designed in Inkscape as bitmap, converted by bmp2gcode converter. Frontside carved with 60degree carbide cutter, backside and the contour carved out with 1.8mm endmill cutter. Oiled with a linseed oil as final finish. I made this while staying in Ilmenau, Thüringen in a small dorm on a CNC, I have installed in the room. Took several approaches and several nights CNC-ying to get the things right (especially with 3D modelling using 50 shades of gray)</description>
+    </item>
+    
+    <item>
+      <title>Celtic Love spoon</title>
+      <link>https://pribossek.github.io/home/lovespoon/</link>
+      <pubDate>Fri, 19 Jul 2013 23:55:39 +0100</pubDate>
+      
+      <guid>https://pribossek.github.io/home/lovespoon/</guid>
+      <description>A wedding gift for a friend Matevž. It is a version of a nordic love-spoon, that once vikings used to make for their loved ones. The hand symbolyse the friendship, the heart the true love, the knot the eternity, and finally the crown the nobleness. The lovespoon is made out of spruce, entirely without power tools, just hacksaw, chisels, sanding paper and elbow grease. Unfortunately, photos of the carving process have been lost through the years.</description>
+    </item>
+    
+  </channel>
+</rss>
