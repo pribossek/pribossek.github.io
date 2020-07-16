@@ -2,130 +2,130 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jaka Pribošek</title>
-    <link>https://jaka.pribosek.com/</link>
+    <link>http://jaka.pribosek.com/</link>
     <description>Recent content on Jaka Pribošek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Jun 2020 23:55:39 +0100</lastBuildDate>
-    <atom:link href="https://jaka.pribosek.com/" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jaka.pribosek.com/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Alt Azimuth rig</title>
-      <link>https://jaka.pribosek.com/home/altazmount/</link>
+      <link>http://jaka.pribosek.com/home/altazmount/</link>
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
-      <guid>https://jaka.pribosek.com/home/altazmount/</guid>
+      <guid>http://jaka.pribosek.com/home/altazmount/</guid>
       <description>-tbd-</description>
     </item>
     
     <item>
       <title>Astro Tracker</title>
-      <link>https://jaka.pribosek.com/home/astrotracker/</link>
+      <link>http://jaka.pribosek.com/home/astrotracker/</link>
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
-      <guid>https://jaka.pribosek.com/home/astrotracker/</guid>
+      <guid>http://jaka.pribosek.com/home/astrotracker/</guid>
       <description>-tbd-</description>
     </item>
     
     <item>
       <title>Centrifugal Casting Machine</title>
-      <link>https://jaka.pribosek.com/home/centrifugalcasting/</link>
+      <link>http://jaka.pribosek.com/home/centrifugalcasting/</link>
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
-      <guid>https://jaka.pribosek.com/home/centrifugalcasting/</guid>
+      <guid>http://jaka.pribosek.com/home/centrifugalcasting/</guid>
       <description>-tbd-</description>
     </item>
     
     <item>
       <title>Coffe Cup</title>
-      <link>https://jaka.pribosek.com/home/coffecup/</link>
+      <link>http://jaka.pribosek.com/home/coffecup/</link>
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
-      <guid>https://jaka.pribosek.com/home/coffecup/</guid>
+      <guid>http://jaka.pribosek.com/home/coffecup/</guid>
       <description>The idea for this project is pretty old and roots back to 2014. I decided to build a special shaped coffe cup, looking classic on the outside, but revealing its secret heart as the coffe level drops to half. What started as a simple birthday gift for my girlfriend, ended up as a 6 years long journey of ups and down,with some extraordinary long pauses as I did not know how to proceed.</description>
     </item>
     
     <item>
       <title>Ring Engraver</title>
-      <link>https://jaka.pribosek.com/home/ringengraver/</link>
+      <link>http://jaka.pribosek.com/home/ringengraver/</link>
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
-      <guid>https://jaka.pribosek.com/home/ringengraver/</guid>
+      <guid>http://jaka.pribosek.com/home/ringengraver/</guid>
       <description>-tbd-</description>
     </item>
     
     <item>
       <title>Shack Hartmann Sensor</title>
-      <link>https://jaka.pribosek.com/home/shackhartmann/</link>
+      <link>http://jaka.pribosek.com/home/shackhartmann/</link>
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
-      <guid>https://jaka.pribosek.com/home/shackhartmann/</guid>
+      <guid>http://jaka.pribosek.com/home/shackhartmann/</guid>
       <description>-tbd-</description>
     </item>
     
     <item>
       <title>Spherometer</title>
-      <link>https://jaka.pribosek.com/home/spherometer/</link>
+      <link>http://jaka.pribosek.com/home/spherometer/</link>
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
-      <guid>https://jaka.pribosek.com/home/spherometer/</guid>
+      <guid>http://jaka.pribosek.com/home/spherometer/</guid>
       <description>-tbd-</description>
     </item>
     
     <item>
       <title>Mirror grinding machine</title>
-      <link>https://jaka.pribosek.com/home/grindingmachine/</link>
+      <link>http://jaka.pribosek.com/home/grindingmachine/</link>
       <pubDate>Wed, 20 May 2020 23:55:39 +0100</pubDate>
       
-      <guid>https://jaka.pribosek.com/home/grindingmachine/</guid>
+      <guid>http://jaka.pribosek.com/home/grindingmachine/</guid>
       <description>Grinding a telescope mirror with your bare hands until its surface is matching a desired shape to few nanometer is a unique experience.
 I decided to design, construct and built an 12inch travel telescope.</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>https://jaka.pribosek.com/about/</link>
+      <link>http://jaka.pribosek.com/about/</link>
       <pubDate>Fri, 19 Jan 2018 23:55:39 +0100</pubDate>
       
-      <guid>https://jaka.pribosek.com/about/</guid>
+      <guid>http://jaka.pribosek.com/about/</guid>
       <description>{{ $image := $resource.Resize &amp;ldquo;600x&amp;rdquo; }}
 Driven by a passion for science, technology and engineering, I try to develop the skills of understanding, creating, making and repairing things by myself and improve my craftsmanship in each and every aspect along the way. I hold a Diploma degree in mechanical engineering (mechatronics and laser application) and a PhD in applied optics, both from the University of Ljubljana, Slovenia. Currently I live in Austria, where I work as a reasercher in department of Photonics Systems at Silicon Austria Labs.</description>
     </item>
     
     <item>
       <title>Alive!</title>
-      <link>https://jaka.pribosek.com/home/alive/</link>
+      <link>http://jaka.pribosek.com/home/alive/</link>
       <pubDate>Fri, 19 Jan 2018 23:55:39 +0100</pubDate>
       
-      <guid>https://jaka.pribosek.com/home/alive/</guid>
+      <guid>http://jaka.pribosek.com/home/alive/</guid>
       <description>Blog is alive! Learning hugo now - content to come soon&amp;hellip;</description>
     </item>
     
     <item>
       <title>Cinema lens</title>
-      <link>https://jaka.pribosek.com/home/telecentrilens/</link>
+      <link>http://jaka.pribosek.com/home/telecentrilens/</link>
       <pubDate>Fri, 19 Jan 2018 23:55:39 +0100</pubDate>
       
-      <guid>https://jaka.pribosek.com/home/telecentrilens/</guid>
+      <guid>http://jaka.pribosek.com/home/telecentrilens/</guid>
       <description>I got a big old heavy duty cinema projector lens as my farewell gift when I left my research stay in Germany. I decided to use modify it and use it as a camera lens.</description>
     </item>
     
     <item>
       <title>Vibratory Thumbler</title>
-      <link>https://jaka.pribosek.com/home/vibratorythumbler/</link>
+      <link>http://jaka.pribosek.com/home/vibratorythumbler/</link>
       <pubDate>Fri, 19 Jan 2018 23:55:39 +0100</pubDate>
       
-      <guid>https://jaka.pribosek.com/home/vibratorythumbler/</guid>
+      <guid>http://jaka.pribosek.com/home/vibratorythumbler/</guid>
       <description>Vibratory thumbler is a useful machine, when casting plaster and polishing CNC parts. I use it mainly for bubble-free castings with silicone, epoxy and plaster, as vibrations facilitate the air, trapped in the small pockets near the surface to escape.
 Old braking disc serves as a solid base, to which spring mounted table is mount. The machine is powered by some old high-pole DC motor, offering low speed and high torque, to which the eccentric cam is mounted for debalance.</description>
     </item>
     
     <item>
       <title>Homemade Microoptics</title>
-      <link>https://jaka.pribosek.com/home/microoptics/</link>
+      <link>http://jaka.pribosek.com/home/microoptics/</link>
       <pubDate>Fri, 22 Dec 2017 23:55:39 +0100</pubDate>
       
-      <guid>https://jaka.pribosek.com/home/microoptics/</guid>
+      <guid>http://jaka.pribosek.com/home/microoptics/</guid>
       <description>I built several microlens arrays with different technologies, reflow lithography, with subsequent reactive ion etching, electromagnetic imprinting to produce modls, used in an embossing process to produce lenses, and last, ion exchange process to change the refractive index using KNO3 and AGNO3 molten salt baths.
 I used a lens to build a Shack-Hartmann sensor, which was built entirely from scratch.
 I was in a need of a microlens array to design and build a wavefront sensor based on Shack-Hartmann principle.</description>
@@ -133,86 +133,86 @@ I was in a need of a microlens array to design and build a wavefront sensor base
     
     <item>
       <title>LED Sign</title>
-      <link>https://jaka.pribosek.com/home/leddisplay/</link>
+      <link>http://jaka.pribosek.com/home/leddisplay/</link>
       <pubDate>Fri, 22 Dec 2017 23:55:39 +0100</pubDate>
       
-      <guid>https://jaka.pribosek.com/home/leddisplay/</guid>
+      <guid>http://jaka.pribosek.com/home/leddisplay/</guid>
       <description>I&amp;rsquo;ve made this LED display for a friend of mine, who happens to be a big football fan.
 A stand was carved out of spruce with a 6mm ballnose mill. The stock material has been mount inclined 20° on the CNC while the pocket was curved. The display is made out of plexi glass, engraved with 60° V-cutter, dived 0.5mm in material, with 0.75mm pitch. Underneath the plexiglass, there are 6 green LEDs, secretly placed in the pocket in the stand.</description>
     </item>
     
     <item>
       <title>Watch Opener</title>
-      <link>https://jaka.pribosek.com/home/watchwrench/</link>
+      <link>http://jaka.pribosek.com/home/watchwrench/</link>
       <pubDate>Fri, 22 Dec 2017 23:55:39 +0100</pubDate>
       
-      <guid>https://jaka.pribosek.com/home/watchwrench/</guid>
+      <guid>http://jaka.pribosek.com/home/watchwrench/</guid>
       <description>I have made this wrench to open my brothers watch (Casio Edifice EFR546D) and replace the battery during the Christmas holidays this year. I could just order the watch repair kit from eBay or similair, however lead times were all far longer what we were prepared to wait. We needed it right on spot, so I modelled it in a Fusion360 and went to my workshop. First, I have turned an aluminium rod on the lathe to a size, drilled a bore and cut a M6 thread through its center and parted it off.</description>
     </item>
     
     <item>
       <title>Spice Rack</title>
-      <link>https://jaka.pribosek.com/home/spicerack/</link>
+      <link>http://jaka.pribosek.com/home/spicerack/</link>
       <pubDate>Sun, 19 Nov 2017 23:55:39 +0100</pubDate>
       
-      <guid>https://jaka.pribosek.com/home/spicerack/</guid>
+      <guid>http://jaka.pribosek.com/home/spicerack/</guid>
       <description>I have made this nice spice rack out of 30mm spruce plank. The spice rack measures 150 x 450 x 30 mm. It was carved in two pieces, as the cnc working area is 300mm in the longest dimension. So I set up two separate gcode, both referenced to the same physical point on the object. The point was found on CNC using a camera, hence
 As final finish, I used linseed oil, which pops out the grain a bit and gives a nice mate finish.</description>
     </item>
     
     <item>
       <title>Blacksmithing</title>
-      <link>https://jaka.pribosek.com/home/blacksmithing/</link>
+      <link>http://jaka.pribosek.com/home/blacksmithing/</link>
       <pubDate>Sat, 20 Feb 2016 23:55:39 +0100</pubDate>
       
-      <guid>https://jaka.pribosek.com/home/blacksmithing/</guid>
+      <guid>http://jaka.pribosek.com/home/blacksmithing/</guid>
       <description>For three years in a row I attended the three days blacksmithing workshop, organized by Slovenian Blacksmith Association, Section Plamen. The workshop took place at the blacksmith shop of the master Jernej Zorko in Župeča Vas, one of the last artistic blacksmiths in Slovenia. Apart of learning basic blacksmithing techniques, we also had the opportunity to try and blacksmith something on our own.
 I&amp;rsquo;ve made two sculptures by different technologies. The owl is made by welding steel fathers to a to a smith steel frame.</description>
     </item>
     
     <item>
       <title>Celtic Pendant</title>
-      <link>https://jaka.pribosek.com/home/celticpendant/</link>
+      <link>http://jaka.pribosek.com/home/celticpendant/</link>
       <pubDate>Sat, 20 Feb 2016 23:55:39 +0100</pubDate>
       
-      <guid>https://jaka.pribosek.com/home/celticpendant/</guid>
+      <guid>http://jaka.pribosek.com/home/celticpendant/</guid>
       <description>Made for my love.
 Designed in Inkscape as bitmap, converted by bmp2gcode converter. Frontside carved with 60degree carbide cutter, backside and the contour carved out with 1.8mm endmill cutter. Oiled with a linseed oil as final finish. I made this while staying in Ilmenau, Thüringen in a small dorm on a CNC, I have installed in the room. Took several approaches and several nights CNC-ying to get the things right (especially with 3D modelling using 50 shades of gray)</description>
     </item>
     
     <item>
       <title>Deformable Mirror</title>
-      <link>https://jaka.pribosek.com/home/deformable-mirror/</link>
+      <link>http://jaka.pribosek.com/home/deformable-mirror/</link>
       <pubDate>Mon, 19 Jan 2015 23:55:39 +0100</pubDate>
       
-      <guid>https://jaka.pribosek.com/home/deformable-mirror/</guid>
+      <guid>http://jaka.pribosek.com/home/deformable-mirror/</guid>
       <description>As a side project of my PhD, I&amp;rsquo;ve developed an adaptive optical system with a custom built deformable mirror. Deformable mirror was developed out of a piezo buzzer to which at the frontside, a small coated objective glass, ground to the round shape has been bonded. Piezo electrode has been segmented into four electrically isolated segments. By applying different voltages to the segments, the curvature of the mirror can be controlled.</description>
     </item>
     
     <item>
       <title>Some old graphics</title>
-      <link>https://jaka.pribosek.com/home/graphics/</link>
+      <link>http://jaka.pribosek.com/home/graphics/</link>
       <pubDate>Mon, 19 Jan 2015 23:55:39 +0100</pubDate>
       
-      <guid>https://jaka.pribosek.com/home/graphics/</guid>
+      <guid>http://jaka.pribosek.com/home/graphics/</guid>
       <description>These are some old graphics..</description>
     </item>
     
     <item>
       <title>Celtic Love spoon</title>
-      <link>https://jaka.pribosek.com/home/lovespoon/</link>
+      <link>http://jaka.pribosek.com/home/lovespoon/</link>
       <pubDate>Fri, 19 Jul 2013 23:55:39 +0100</pubDate>
       
-      <guid>https://jaka.pribosek.com/home/lovespoon/</guid>
+      <guid>http://jaka.pribosek.com/home/lovespoon/</guid>
       <description>A wedding gift for a friend Matevž. It is a version of a nordic love-spoon, that once vikings used to make for their loved ones. The hand symbolyse the friendship, the heart the true love, the knot the eternity, and finally the crown the nobleness. The lovespoon is made out of spruce, entirely without power tools, just hacksaw, chisels, sanding paper and elbow grease. Unfortunately, photos of the carving process have been lost through the years.</description>
     </item>
     
     <item>
       <title>Engagement and wedding rings</title>
-      <link>https://jaka.pribosek.com/home/rings/</link>
+      <link>http://jaka.pribosek.com/home/rings/</link>
       <pubDate>Fri, 19 Jul 2013 23:55:39 +0100</pubDate>
       
-      <guid>https://jaka.pribosek.com/home/rings/</guid>
+      <guid>http://jaka.pribosek.com/home/rings/</guid>
       <description>I casted the engagement ring from sterling silver and wedding rings from 18 carat white gold (gold-nickel). From mastering lost-wax process to casting fine details, I decided to develop the technology from scratch, which happened to be quite a stressful journey.
 First, everythign started by designing the ring in the Fusion360.</description>
     </item>

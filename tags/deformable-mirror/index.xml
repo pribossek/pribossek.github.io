@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deformable Mirror on Jaka Pribošek</title>
-    <link>https://jaka.pribosek.com/tags/deformable-mirror/</link>
+    <link>http://jaka.pribosek.com/tags/deformable-mirror/</link>
     <description>Recent content in Deformable Mirror on Jaka Pribošek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Jan 2015 23:55:39 +0100</lastBuildDate>
     
-	<atom:link href="https://jaka.pribosek.com/tags/deformable-mirror/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jaka.pribosek.com/tags/deformable-mirror/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deformable Mirror</title>
-      <link>https://jaka.pribosek.com/home/deformable-mirror/</link>
+      <link>http://jaka.pribosek.com/home/deformable-mirror/</link>
       <pubDate>Mon, 19 Jan 2015 23:55:39 +0100</pubDate>
       
-      <guid>https://jaka.pribosek.com/home/deformable-mirror/</guid>
+      <guid>http://jaka.pribosek.com/home/deformable-mirror/</guid>
       <description>As a side project of my PhD, I&amp;rsquo;ve developed an adaptive optical system with a custom built deformable mirror. Deformable mirror was developed out of a piezo buzzer to which at the frontside, a small coated objective glass, ground to the round shape has been bonded. Piezo electrode has been segmented into four electrically isolated segments. By applying different voltages to the segments, the curvature of the mirror can be controlled.</description>
     </item>
     
