@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author on Jaka Pribošek</title>
-    <link>http://jaka.pribosek.com/author/</link>
+    <link>https://jaka.pribosek.com/author/</link>
     <description>Recent content in Author on Jaka Pribošek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://jaka.pribosek.com/author/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jaka.pribosek.com/author/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jaka</title>
-      <link>http://jaka.pribosek.com/author/jaka/</link>
+      <link>https://jaka.pribosek.com/author/jaka/</link>
       <pubDate>Fri, 22 Dec 2017 23:55:39 +0100</pubDate>
       
-      <guid>http://jaka.pribosek.com/author/jaka/</guid>
+      <guid>https://jaka.pribosek.com/author/jaka/</guid>
       <description></description>
     </item>
     

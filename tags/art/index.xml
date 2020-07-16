@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Art on Jaka Pribošek</title>
-    <link>http://jaka.pribosek.com/tags/art/</link>
+    <link>https://jaka.pribosek.com/tags/art/</link>
     <description>Recent content in Art on Jaka Pribošek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Jun 2020 23:55:39 +0100</lastBuildDate>
     
-	<atom:link href="http://jaka.pribosek.com/tags/art/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jaka.pribosek.com/tags/art/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Centrifugal Casting Machine</title>
-      <link>http://jaka.pribosek.com/home/centrifugalcasting/</link>
+      <link>https://jaka.pribosek.com/home/centrifugalcasting/</link>
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
-      <guid>http://jaka.pribosek.com/home/centrifugalcasting/</guid>
+      <guid>https://jaka.pribosek.com/home/centrifugalcasting/</guid>
       <description>-tbd-</description>
     </item>
     
     <item>
       <title>Coffe Cup</title>
-      <link>http://jaka.pribosek.com/home/coffecup/</link>
+      <link>https://jaka.pribosek.com/home/coffecup/</link>
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
-      <guid>http://jaka.pribosek.com/home/coffecup/</guid>
+      <guid>https://jaka.pribosek.com/home/coffecup/</guid>
       <description>The idea for this project is pretty old and roots back to 2014. I decided to build a special shaped coffe cup, looking classic on the outside, but revealing its secret heart as the coffe level drops to half. What started as a simple birthday gift for my girlfriend, ended up as a 6 years long journey of ups and down,with some extraordinary long pauses as I did not know how to proceed.</description>
     </item>
     
     <item>
       <title>Ring Engraver</title>
-      <link>http://jaka.pribosek.com/home/ringengraver/</link>
+      <link>https://jaka.pribosek.com/home/ringengraver/</link>
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
-      <guid>http://jaka.pribosek.com/home/ringengraver/</guid>
+      <guid>https://jaka.pribosek.com/home/ringengraver/</guid>
       <description>-tbd-</description>
     </item>
     
