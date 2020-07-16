@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steel on Jaka Pribošek</title>
-    <link>https://pribossek.github.io/categories/steel/</link>
+    <link>http://jaka.pribosek.com/categories/steel/</link>
     <description>Recent content in Steel on Jaka Pribošek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Jun 2020 23:55:39 +0100</lastBuildDate>
     
-	<atom:link href="https://pribossek.github.io/categories/steel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jaka.pribosek.com/categories/steel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Centrifugal Casting Machine</title>
-      <link>https://pribossek.github.io/home/centrifugalcasting/</link>
+      <link>http://jaka.pribosek.com/home/centrifugalcasting/</link>
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/centrifugalcasting/</guid>
+      <guid>http://jaka.pribosek.com/home/centrifugalcasting/</guid>
       <description>-tbd-</description>
     </item>
     
     <item>
       <title>Vibratory Thumbler</title>
-      <link>https://pribossek.github.io/home/vibratorythumbler/</link>
+      <link>http://jaka.pribosek.com/home/vibratorythumbler/</link>
       <pubDate>Fri, 19 Jan 2018 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/vibratorythumbler/</guid>
+      <guid>http://jaka.pribosek.com/home/vibratorythumbler/</guid>
       <description>Vibratory thumbler is a useful machine, when casting plaster and polishing CNC parts. I use it mainly for bubble-free castings with silicone, epoxy and plaster, as vibrations facilitate the air, trapped in the small pockets near the surface to escape.
 Old braking disc serves as a solid base, to which spring mounted table is mount. The machine is powered by some old high-pole DC motor, offering low speed and high torque, to which the eccentric cam is mounted for debalance.</description>
     </item>
     
     <item>
       <title>Watch Opener</title>
-      <link>https://pribossek.github.io/home/watchwrench/</link>
+      <link>http://jaka.pribosek.com/home/watchwrench/</link>
       <pubDate>Fri, 22 Dec 2017 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/watchwrench/</guid>
+      <guid>http://jaka.pribosek.com/home/watchwrench/</guid>
       <description>I have made this wrench to open my brothers watch (Casio Edifice EFR546D) and replace the battery during the Christmas holidays this year. I could just order the watch repair kit from eBay or similair, however lead times were all far longer what we were prepared to wait. We needed it right on spot, so I modelled it in a Fusion360 and went to my workshop. First, I have turned an aluminium rod on the lathe to a size, drilled a bore and cut a M6 thread through its center and parted it off.</description>
     </item>
     
     <item>
       <title>Blacksmithing</title>
-      <link>https://pribossek.github.io/home/blacksmithing/</link>
+      <link>http://jaka.pribosek.com/home/blacksmithing/</link>
       <pubDate>Sat, 20 Feb 2016 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/blacksmithing/</guid>
+      <guid>http://jaka.pribosek.com/home/blacksmithing/</guid>
       <description>For three years in a row I attended the three days blacksmithing workshop, organized by Slovenian Blacksmith Association, Section Plamen. The workshop took place at the blacksmith shop of the master Jernej Zorko in Župeča Vas, one of the last artistic blacksmiths in Slovenia. Apart of learning basic blacksmithing techniques, we also had the opportunity to try and blacksmith something on our own.
 I&amp;rsquo;ve made two sculptures by different technologies. The owl is made by welding steel fathers to a to a smith steel frame.</description>
     </item>

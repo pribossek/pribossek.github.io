@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Art on Jaka Pribošek</title>
-    <link>https://pribossek.github.io/categories/art/</link>
+    <link>http://jaka.pribosek.com/categories/art/</link>
     <description>Recent content in Art on Jaka Pribošek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Jun 2020 23:55:39 +0100</lastBuildDate>
     
-	<atom:link href="https://pribossek.github.io/categories/art/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jaka.pribosek.com/categories/art/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Centrifugal Casting Machine</title>
-      <link>https://pribossek.github.io/home/centrifugalcasting/</link>
+      <link>http://jaka.pribosek.com/home/centrifugalcasting/</link>
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/centrifugalcasting/</guid>
+      <guid>http://jaka.pribosek.com/home/centrifugalcasting/</guid>
       <description>-tbd-</description>
     </item>
     
     <item>
       <title>Coffe Cup</title>
-      <link>https://pribossek.github.io/home/coffecup/</link>
+      <link>http://jaka.pribosek.com/home/coffecup/</link>
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/coffecup/</guid>
+      <guid>http://jaka.pribosek.com/home/coffecup/</guid>
       <description>The idea for this project is pretty old and roots back to 2014. I decided to build a special shaped coffe cup, looking classic on the outside, but revealing its secret heart as the coffe level drops to half. What started as a simple birthday gift for my girlfriend, ended up as a 6 years long journey of ups and down,with some extraordinary long pauses as I did not know how to proceed.</description>
     </item>
     
     <item>
       <title>Ring Engraver</title>
-      <link>https://pribossek.github.io/home/ringengraver/</link>
+      <link>http://jaka.pribosek.com/home/ringengraver/</link>
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/ringengraver/</guid>
+      <guid>http://jaka.pribosek.com/home/ringengraver/</guid>
       <description>-tbd-</description>
     </item>
     
     <item>
       <title>Some old graphics</title>
-      <link>https://pribossek.github.io/home/graphics/</link>
+      <link>http://jaka.pribosek.com/home/graphics/</link>
       <pubDate>Mon, 19 Jan 2015 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/graphics/</guid>
+      <guid>http://jaka.pribosek.com/home/graphics/</guid>
       <description>These are some old graphics..</description>
     </item>
     
     <item>
       <title>Engagement and wedding rings</title>
-      <link>https://pribossek.github.io/home/rings/</link>
+      <link>http://jaka.pribosek.com/home/rings/</link>
       <pubDate>Fri, 19 Jul 2013 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/rings/</guid>
+      <guid>http://jaka.pribosek.com/home/rings/</guid>
       <description>I casted the engagement ring from sterling silver and wedding rings from 18 carat white gold (gold-nickel). From mastering lost-wax process to casting fine details, I decided to develop the technology from scratch, which happened to be quite a stressful journey.
 First, everythign started by designing the ring in the Fusion360.</description>
     </item>

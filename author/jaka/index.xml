@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jaka on Jaka Pribošek</title>
-    <link>https://pribossek.github.io/author/jaka/</link>
+    <link>http://jaka.pribosek.com/author/jaka/</link>
     <description>Recent content in Jaka on Jaka Pribošek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Dec 2017 23:55:39 +0100</lastBuildDate>
     
-	<atom:link href="https://pribossek.github.io/author/jaka/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jaka.pribosek.com/author/jaka/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Homemade Microoptics</title>
-      <link>https://pribossek.github.io/home/microoptics/</link>
+      <link>http://jaka.pribosek.com/home/microoptics/</link>
       <pubDate>Fri, 22 Dec 2017 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/microoptics/</guid>
+      <guid>http://jaka.pribosek.com/home/microoptics/</guid>
       <description>I built several microlens arrays with different technologies, reflow lithography, with subsequent reactive ion etching, electromagnetic imprinting to produce modls, used in an embossing process to produce lenses, and last, ion exchange process to change the refractive index using KNO3 and AGNO3 molten salt baths.
 I used a lens to build a Shack-Hartmann sensor, which was built entirely from scratch.
 I was in a need of a microlens array to design and build a wavefront sensor based on Shack-Hartmann principle.</description>
@@ -24,39 +24,39 @@ I was in a need of a microlens array to design and build a wavefront sensor base
     
     <item>
       <title>LED Sign</title>
-      <link>https://pribossek.github.io/home/leddisplay/</link>
+      <link>http://jaka.pribosek.com/home/leddisplay/</link>
       <pubDate>Fri, 22 Dec 2017 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/leddisplay/</guid>
+      <guid>http://jaka.pribosek.com/home/leddisplay/</guid>
       <description>I&amp;rsquo;ve made this LED display for a friend of mine, who happens to be a big football fan.
 A stand was carved out of spruce with a 6mm ballnose mill. The stock material has been mount inclined 20° on the CNC while the pocket was curved. The display is made out of plexi glass, engraved with 60° V-cutter, dived 0.5mm in material, with 0.75mm pitch. Underneath the plexiglass, there are 6 green LEDs, secretly placed in the pocket in the stand.</description>
     </item>
     
     <item>
       <title>Watch Opener</title>
-      <link>https://pribossek.github.io/home/watchwrench/</link>
+      <link>http://jaka.pribosek.com/home/watchwrench/</link>
       <pubDate>Fri, 22 Dec 2017 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/watchwrench/</guid>
+      <guid>http://jaka.pribosek.com/home/watchwrench/</guid>
       <description>I have made this wrench to open my brothers watch (Casio Edifice EFR546D) and replace the battery during the Christmas holidays this year. I could just order the watch repair kit from eBay or similair, however lead times were all far longer what we were prepared to wait. We needed it right on spot, so I modelled it in a Fusion360 and went to my workshop. First, I have turned an aluminium rod on the lathe to a size, drilled a bore and cut a M6 thread through its center and parted it off.</description>
     </item>
     
     <item>
       <title>Blacksmithing</title>
-      <link>https://pribossek.github.io/home/blacksmithing/</link>
+      <link>http://jaka.pribosek.com/home/blacksmithing/</link>
       <pubDate>Sat, 20 Feb 2016 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/blacksmithing/</guid>
+      <guid>http://jaka.pribosek.com/home/blacksmithing/</guid>
       <description>For three years in a row I attended the three days blacksmithing workshop, organized by Slovenian Blacksmith Association, Section Plamen. The workshop took place at the blacksmith shop of the master Jernej Zorko in Župeča Vas, one of the last artistic blacksmiths in Slovenia. Apart of learning basic blacksmithing techniques, we also had the opportunity to try and blacksmith something on our own.
 I&amp;rsquo;ve made two sculptures by different technologies. The owl is made by welding steel fathers to a to a smith steel frame.</description>
     </item>
     
     <item>
       <title>Celtic Pendant</title>
-      <link>https://pribossek.github.io/home/celticpendant/</link>
+      <link>http://jaka.pribosek.com/home/celticpendant/</link>
       <pubDate>Sat, 20 Feb 2016 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/celticpendant/</guid>
+      <guid>http://jaka.pribosek.com/home/celticpendant/</guid>
       <description>Made for my love.
 Designed in Inkscape as bitmap, converted by bmp2gcode converter. Frontside carved with 60degree carbide cutter, backside and the contour carved out with 1.8mm endmill cutter. Oiled with a linseed oil as final finish. I made this while staying in Ilmenau, Thüringen in a small dorm on a CNC, I have installed in the room. Took several approaches and several nights CNC-ying to get the things right (especially with 3D modelling using 50 shades of gray)</description>
     </item>

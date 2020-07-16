@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Optics on Jaka Pribošek</title>
-    <link>https://pribossek.github.io/tags/optics/</link>
+    <link>http://jaka.pribosek.com/tags/optics/</link>
     <description>Recent content in Optics on Jaka Pribošek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Jun 2020 23:55:39 +0100</lastBuildDate>
     
-	<atom:link href="https://pribossek.github.io/tags/optics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jaka.pribosek.com/tags/optics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Alt Azimuth rig</title>
-      <link>https://pribossek.github.io/home/altazmount/</link>
+      <link>http://jaka.pribosek.com/home/altazmount/</link>
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/altazmount/</guid>
+      <guid>http://jaka.pribosek.com/home/altazmount/</guid>
       <description>-tbd-</description>
     </item>
     
     <item>
       <title>Astro Tracker</title>
-      <link>https://pribossek.github.io/home/astrotracker/</link>
+      <link>http://jaka.pribosek.com/home/astrotracker/</link>
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/astrotracker/</guid>
+      <guid>http://jaka.pribosek.com/home/astrotracker/</guid>
       <description>-tbd-</description>
     </item>
     
     <item>
       <title>Shack Hartmann Sensor</title>
-      <link>https://pribossek.github.io/home/shackhartmann/</link>
+      <link>http://jaka.pribosek.com/home/shackhartmann/</link>
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/shackhartmann/</guid>
+      <guid>http://jaka.pribosek.com/home/shackhartmann/</guid>
       <description>-tbd-</description>
     </item>
     
     <item>
       <title>Spherometer</title>
-      <link>https://pribossek.github.io/home/spherometer/</link>
+      <link>http://jaka.pribosek.com/home/spherometer/</link>
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/spherometer/</guid>
+      <guid>http://jaka.pribosek.com/home/spherometer/</guid>
       <description>-tbd-</description>
     </item>
     
     <item>
       <title>Mirror grinding machine</title>
-      <link>https://pribossek.github.io/home/grindingmachine/</link>
+      <link>http://jaka.pribosek.com/home/grindingmachine/</link>
       <pubDate>Wed, 20 May 2020 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/grindingmachine/</guid>
+      <guid>http://jaka.pribosek.com/home/grindingmachine/</guid>
       <description>Grinding a telescope mirror with your bare hands until its surface is matching a desired shape to few nanometer is a unique experience.
 I decided to design, construct and built an 12inch travel telescope.</description>
     </item>
     
     <item>
       <title>Homemade Microoptics</title>
-      <link>https://pribossek.github.io/home/microoptics/</link>
+      <link>http://jaka.pribosek.com/home/microoptics/</link>
       <pubDate>Fri, 22 Dec 2017 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/microoptics/</guid>
+      <guid>http://jaka.pribosek.com/home/microoptics/</guid>
       <description>I built several microlens arrays with different technologies, reflow lithography, with subsequent reactive ion etching, electromagnetic imprinting to produce modls, used in an embossing process to produce lenses, and last, ion exchange process to change the refractive index using KNO3 and AGNO3 molten salt baths.
 I used a lens to build a Shack-Hartmann sensor, which was built entirely from scratch.
 I was in a need of a microlens array to design and build a wavefront sensor based on Shack-Hartmann principle.</description>
@@ -70,20 +70,20 @@ I was in a need of a microlens array to design and build a wavefront sensor base
     
     <item>
       <title>LED Sign</title>
-      <link>https://pribossek.github.io/home/leddisplay/</link>
+      <link>http://jaka.pribosek.com/home/leddisplay/</link>
       <pubDate>Fri, 22 Dec 2017 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/leddisplay/</guid>
+      <guid>http://jaka.pribosek.com/home/leddisplay/</guid>
       <description>I&amp;rsquo;ve made this LED display for a friend of mine, who happens to be a big football fan.
 A stand was carved out of spruce with a 6mm ballnose mill. The stock material has been mount inclined 20° on the CNC while the pocket was curved. The display is made out of plexi glass, engraved with 60° V-cutter, dived 0.5mm in material, with 0.75mm pitch. Underneath the plexiglass, there are 6 green LEDs, secretly placed in the pocket in the stand.</description>
     </item>
     
     <item>
       <title>Deformable Mirror</title>
-      <link>https://pribossek.github.io/home/deformable-mirror/</link>
+      <link>http://jaka.pribosek.com/home/deformable-mirror/</link>
       <pubDate>Mon, 19 Jan 2015 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/deformable-mirror/</guid>
+      <guid>http://jaka.pribosek.com/home/deformable-mirror/</guid>
       <description>As a side project of my PhD, I&amp;rsquo;ve developed an adaptive optical system with a custom built deformable mirror. Deformable mirror was developed out of a piezo buzzer to which at the frontside, a small coated objective glass, ground to the round shape has been bonded. Piezo electrode has been segmented into four electrically isolated segments. By applying different voltages to the segments, the curvature of the mirror can be controlled.</description>
     </item>
     

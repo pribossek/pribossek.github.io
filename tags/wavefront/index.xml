@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wavefront on Jaka Pribošek</title>
-    <link>https://pribossek.github.io/tags/wavefront/</link>
+    <link>http://jaka.pribosek.com/tags/wavefront/</link>
     <description>Recent content in Wavefront on Jaka Pribošek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Jun 2020 23:55:39 +0100</lastBuildDate>
     
-	<atom:link href="https://pribossek.github.io/tags/wavefront/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jaka.pribosek.com/tags/wavefront/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Alt Azimuth rig</title>
-      <link>https://pribossek.github.io/home/altazmount/</link>
+      <link>http://jaka.pribosek.com/home/altazmount/</link>
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/altazmount/</guid>
+      <guid>http://jaka.pribosek.com/home/altazmount/</guid>
       <description>-tbd-</description>
     </item>
     
     <item>
       <title>Astro Tracker</title>
-      <link>https://pribossek.github.io/home/astrotracker/</link>
+      <link>http://jaka.pribosek.com/home/astrotracker/</link>
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/astrotracker/</guid>
+      <guid>http://jaka.pribosek.com/home/astrotracker/</guid>
       <description>-tbd-</description>
     </item>
     
     <item>
       <title>Shack Hartmann Sensor</title>
-      <link>https://pribossek.github.io/home/shackhartmann/</link>
+      <link>http://jaka.pribosek.com/home/shackhartmann/</link>
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/shackhartmann/</guid>
+      <guid>http://jaka.pribosek.com/home/shackhartmann/</guid>
       <description>-tbd-</description>
     </item>
     
     <item>
       <title>Spherometer</title>
-      <link>https://pribossek.github.io/home/spherometer/</link>
+      <link>http://jaka.pribosek.com/home/spherometer/</link>
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/spherometer/</guid>
+      <guid>http://jaka.pribosek.com/home/spherometer/</guid>
       <description>-tbd-</description>
     </item>
     

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Astronomy on Jaka Pribošek</title>
-    <link>https://pribossek.github.io/tags/astronomy/</link>
+    <link>http://jaka.pribosek.com/tags/astronomy/</link>
     <description>Recent content in Astronomy on Jaka Pribošek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 May 2020 23:55:39 +0100</lastBuildDate>
     
-	<atom:link href="https://pribossek.github.io/tags/astronomy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jaka.pribosek.com/tags/astronomy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mirror grinding machine</title>
-      <link>https://pribossek.github.io/home/grindingmachine/</link>
+      <link>http://jaka.pribosek.com/home/grindingmachine/</link>
       <pubDate>Wed, 20 May 2020 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/grindingmachine/</guid>
+      <guid>http://jaka.pribosek.com/home/grindingmachine/</guid>
       <description>Grinding a telescope mirror with your bare hands until its surface is matching a desired shape to few nanometer is a unique experience.
 I decided to design, construct and built an 12inch travel telescope.</description>
     </item>
     
     <item>
       <title>Deformable Mirror</title>
-      <link>https://pribossek.github.io/home/deformable-mirror/</link>
+      <link>http://jaka.pribosek.com/home/deformable-mirror/</link>
       <pubDate>Mon, 19 Jan 2015 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/deformable-mirror/</guid>
+      <guid>http://jaka.pribosek.com/home/deformable-mirror/</guid>
       <description>As a side project of my PhD, I&amp;rsquo;ve developed an adaptive optical system with a custom built deformable mirror. Deformable mirror was developed out of a piezo buzzer to which at the frontside, a small coated objective glass, ground to the round shape has been bonded. Piezo electrode has been segmented into four electrically isolated segments. By applying different voltages to the segments, the curvature of the mirror can be controlled.</description>
     </item>
     

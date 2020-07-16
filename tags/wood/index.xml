@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wood on Jaka Pribošek</title>
-    <link>https://pribossek.github.io/tags/wood/</link>
+    <link>http://jaka.pribosek.com/tags/wood/</link>
     <description>Recent content in Wood on Jaka Pribošek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Dec 2017 23:55:39 +0100</lastBuildDate>
     
-	<atom:link href="https://pribossek.github.io/tags/wood/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jaka.pribosek.com/tags/wood/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>LED Sign</title>
-      <link>https://pribossek.github.io/home/leddisplay/</link>
+      <link>http://jaka.pribosek.com/home/leddisplay/</link>
       <pubDate>Fri, 22 Dec 2017 23:55:39 +0100</pubDate>
       
-      <guid>https://pribossek.github.io/home/leddisplay/</guid>
+      <guid>http://jaka.pribosek.com/home/leddisplay/</guid>
       <description>I&amp;rsquo;ve made this LED display for a friend of mine, who happens to be a big football fan.
 A stand was carved out of spruce with a 6mm ballnose mill. The stock material has been mount inclined 20° on the CNC while the pocket was curved. The display is made out of plexi glass, engraved with 60° V-cutter, dived 0.5mm in material, with 0.75mm pitch. Underneath the plexiglass, there are 6 green LEDs, secretly placed in the pocket in the stand.</description>
     </item>
