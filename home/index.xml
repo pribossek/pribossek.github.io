@@ -62,7 +62,7 @@
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
       <guid>https://jaka.pribosek.com/home/shackhartmann/</guid>
-      <description>-tbd-</description>
+      <description>I developed two versions of a Shack Hartmann wavefront sensor and wrote a custom image processing algorithms to estimate the optical aberrations of optical system. The working principle is simple. The input wavefront is divided into several different channels, each focused with its own microlens. Sensor is placed in the focal plane of the microlens array. Any local tilt of the wavefront shifts the point from its central position. A custom Python algorithm finds center of each individual spots, orders them on the grid and performs the modal analysis, projection on the orthogonal Zernike polynomials basis.</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@
       <pubDate>Sat, 20 Jun 2020 23:55:39 +0100</pubDate>
       
       <guid>https://jaka.pribosek.com/home/spherometer/</guid>
-      <description>-tbd-</description>
+      <description>Spherometer is an instrument used to measure the sag of the lens and inspect the progress during a rough grinding process. As a measurement head, Mitutoyo 543-390B ID-C112XB is used which provides absolute accuracy with micrometer resolution. Aluminium holder was CNC machined from a 10mm thick scrap sheet. The setup is calibrated on a flat calibrated surface plate and used to asses sag of the telescope mirror during the grinding process.</description>
     </item>
     
     <item>
@@ -118,9 +118,8 @@ Old braking disc serves as a solid base, to which spring mounted table is mount.
       <pubDate>Fri, 22 Dec 2017 23:55:39 +0100</pubDate>
       
       <guid>https://jaka.pribosek.com/home/microoptics/</guid>
-      <description>I built several microlens arrays with different technologies, reflow lithography, with subsequent reactive ion etching, electromagnetic imprinting to produce modls, used in an embossing process to produce lenses, and last, ion exchange process to change the refractive index using KNO3 and AGNO3 molten salt baths.
-I used a lens to build a Shack-Hartmann sensor, which was built entirely from scratch.
-I was in a need of a microlens array to design and build a wavefront sensor based on Shack-Hartmann principle.</description>
+      <description>I built several microlens arrays with different technologies, reflow lithography, with subsequent reactive ion etching, electromagnetic imprinting to produce molds, used in an embossing process to produce lenses, and last, ion exchange process to change the refractive index using KNO3 and AGNO3 molten salt baths.
+I used a lens to build a Shack-Hartmann sensor, which was built entirely from scratch. </description>
     </item>
     
     <item>
@@ -196,7 +195,7 @@ Designed in Inkscape as bitmap, converted by bmp2gcode converter. Frontside carv
       <pubDate>Fri, 19 Jul 2013 23:55:39 +0100</pubDate>
       
       <guid>https://jaka.pribosek.com/home/lovespoon/</guid>
-      <description>A wedding gift for a friend Matevž. It is a version of a nordic love-spoon, that once vikings used to make for their loved ones. The hand symbolyse the friendship, the heart the true love, the knot the eternity, and finally the crown the nobleness. The lovespoon is made out of spruce, entirely without power tools, just hacksaw, chisels, sanding paper and elbow grease. Unfortunately, photos of the carving process have been lost through the years.</description>
+      <description>A wedding gift for a friend Matevž. It is a version of a nordic love-spoon, that once vikings used to make for their loved ones. The hand symbolyse the friendship, the heart the true love, the knot the eternity and finally the crown the nobleness. The lovespoon is made out of spruce, entirely without power tools, just hacksaw, chisels, sanding paper and elbow grease. Unfortunately, photos of the carving process have been lost through the years.</description>
     </item>
     
     <item>

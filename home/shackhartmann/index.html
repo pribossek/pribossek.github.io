@@ -211,7 +211,10 @@ body.custom-background { background-image: url("https://jaka.pribosek.com/images
 
 	  </div>
           <div class="entry-content" itemprop="articleBody">
-            <p>-tbd-</p>
+            <p>I developed two versions of a Shack Hartmann wavefront sensor and wrote a custom image processing algorithms to estimate the optical aberrations of optical system. The working principle is simple. The input wavefront is divided into several different channels, each focused with its own microlens. Sensor is placed in the focal plane of the microlens array. Any local tilt of the wavefront shifts the point from its central position. A custom Python algorithm finds center of each individual spots, orders them on the grid and performs the modal analysis, projection on the orthogonal Zernike polynomials basis.
+I am using microlenses I have fabricated using two different techiques: a) hot embossing and reflow lithography.</p>
+
+<p>the entire sensor was built around a FPGA Optomotive Camelopard camera, usign custom built MLA holders. Mechanical parts were machined from aluminium and anodized at home.</p>
 
 <!-- ![my img](/img/ring.jpg) --> 
 
